@@ -20,11 +20,11 @@ Packaging type: Jar<br>
 Versão Java: 17<br>
 <br>
 --------- Choose dependencies<br>
-Spring Boot DevTools (O módulo DevTools inclui ferramentas utilitárias no projeto, dentre elas a Automatic Restart, que reinicia o servidor automaticamente ao detectar alterações no código fonte da aplicação.)<br>
-Spring Web<br>
+-> Spring Boot DevTools (O módulo DevTools inclui ferramentas utilitárias no projeto, dentre elas a Automatic Restart, que reinicia o servidor automaticamente ao detectar alterações no código fonte da aplicação.)<br>
+-> Spring Web<br>
 MYSQL Driver SQL (Conectar com o banco de dados MySQL)<br>
-Spring data jpa (Módulo incluiso no Spring Boot para trabalhar com banco de dados, deixando as coisas mais fáceis. Por podrão o Spring Boot utiliza o Hibernate como implementação do JPA, mas se quiser consegue configurar outro.)<br>
-Lombok developer (Não necessitar criar os setter e getter na mão)<br>
+-> Spring Data JPA (Módulo incluiso no Spring Boot para trabalhar com banco de dados, deixando as coisas mais fáceis. Por podrão o Spring Boot utiliza o Hibernate como implementação do JPA, mas se quiser consegue configurar outro.)<br>
+-> Lombok developer (Não necessitar criar os setter e getter na mão)<br>
 <br>
 
 ### PASSOS PARA INICIAR PROJETO
